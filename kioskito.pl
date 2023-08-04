@@ -17,7 +17,7 @@ atiende(vale, Dia, horario(HoraDeInicio, HoraDeFinal)):-
 atiende(vale, Dia, horario(HoraDeInicio, HoraDeFinal)):-
     atiende(dodain, Dia, horario(HoraDeInicio, HoraDeFinal)).
 
-/* Los demás no los pongo por principio de Universo Cerrado, es decir que son cosas que no ocurren o todavía no se saben*/
+
 
 /* Punto 2 */
 encargado(Dia, Hora, Persona):-
